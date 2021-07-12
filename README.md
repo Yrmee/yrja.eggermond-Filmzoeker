@@ -1,2 +1,2 @@
-# yrja.eggermond-Filmzoeker
+# JavaScript FilmZoeker
 Eindopdracht Advanced JavaScript, DOM &amp; Git/GitHub
